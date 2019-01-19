@@ -1,0 +1,10 @@
+footer
+{
+  background-color: #353A3F;
+  color: white;
+  width: 100%;
+  position: fixed;/*Para que cuando haga scroll en la página el footer se siga viendo todo el tiempo.*/
+  bottom: 0px;
+  text-align: center;
+  padding: 20px;
+}
