@@ -60,7 +60,7 @@ app.listen(port, () =>
 /*hay un comando especial en nodemon y para ejecutar ese comando que se escribió en el package.json se debe
 *escribir en terminal lo siguiente npm run nodemon*/
 
-
+/*Para hacer cambios en la página ya subida a heroku se pondrá de nuevo un git push heroku master para suba los cambios.*/
 
 
 //Para probar resultados escribir en una pestaña de html
